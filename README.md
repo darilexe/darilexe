@@ -17,8 +17,8 @@
 - 🔍 I like taking things apart to see how they work, which is how I ended up studying computer science for college :>
 - 🃏 I get obsessed with a hobby, then start writing code to fix the tiny things that annoy me about it
 - 👁️ Computer vision is a very coool rabbit hole: for our thesis we trained a YOLOv11 segmentation model (0.82 mAP@0.5) and built its OpenCV preprocessing pipeline
-- 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
-- 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
+- 🌾 I like building for real people, from banana farmers (our thesis) to students without reliable internet (Kulay)
+- 🧪 I'm the teammate who tests everything twice; I led QA on our thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
 - 🎸 Currently learning guitar in my free time!!!
 - 🌱 Looking for a software development internship
@@ -28,7 +28,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Lotus**](https://github.com/darilexe/lotus-lang) | A Magic: The Gathering–inspired programming language with its own compiler (lexer, parser, semantic analysis, scoped symbol table) and a card-based IDE | Python · Tkinter · Pillow |
-| [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: a YOLOv11 instance-segmentation model (which I trained, 0.82 mAP@0.5) finds diseased regions on banana leaves, then a cellular-automata engine simulates the spread on a 3D leaf and across a plantation | Python · FastAPI · YOLOv11 · PyVista · React |
+| [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: a YOLOv11 instance-segmentation model (which we trained, 0.82 mAP@0.5) finds diseased regions on banana leaves, then a cellular-automata engine simulates the spread on a 3D leaf and across a plantation | Python · FastAPI · YOLOv11 · PyVista · React |
 | [**Kulay / KodigNo**](https://github.com/yoellil/Kulay) | Offline reading lab and AI study assistant for Grade 1–12 learners: turns photos, PDFs and notes into quizzes and flashcards with a local AI model, no internet needed | Dart · Flutter · Drift (SQLite) · llama.cpp |
 | [**OnlyCars**](https://github.com/darilexe/OnlyCars) | Car dealership desktop app: browse and buy with a loan calculator, or sell your car for a mileage-based offer | Java · Swing |
 | [**Birthday Congruence Analyzer**](https://github.com/darilexe/birthday-congruence-analyzer) | Finds which birthdays fall on your birth weekday using modular arithmetic, no calendar library | Python · Tkinter |
