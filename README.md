@@ -51,3 +51,12 @@
 
 - **Information Technology Specialist – Python** (Certiport, 2025)
 - **PMI Project Management Ready™** (Project Management Institute, 2026)
+
+### My daily driver ⌨️
+
+| Part | What I used |
+| --- | --- |
+| Case / Layout | KBDFans Agar, aluminum plate (Pine Green, HHKB layout) |
+| Switches | Keygeek Y2 (48g) |
+| Keycaps | Domikey x Inky Silent Forest |
+| Stabilizers | Typeplus x YKIB screw-in, tuned and lubed with Krytox 205g0 and XHT-BDZ |
