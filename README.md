@@ -2,7 +2,7 @@
 <p align="center">
   <b>CS student from Manila, always curious about how things work under the hood.</b><br>
   In my free time I play JRPGs and Magic: The Gathering,
-  and I built my own custom HHKB-layout mechanical keyboard. ⌨️
+  and custom HHKB-layout mechanical keyboard enjoyer. 
 </p>
 
 <p align="center">
