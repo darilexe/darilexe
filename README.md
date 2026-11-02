@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Darryl 👋</h1>
 <p align="center">
-  <b>Computer Science student · Software Engineering · Manila, Philippines</b><br>
-  I build compilers, computer-vision simulations, and apps that work offline.
+  <b>CS student from Manila who turned Magic: The Gathering into a programming language.</b><br>
+  When I'm not debugging, I'm tuning a Commander deck, playing midwest emo on guitar,<br>
+  or typing on the Pine Green 60% keyboard I built myself.
 </p>
 
 <p align="center">
@@ -51,4 +52,6 @@
 
 ### Outside of code
 
-🃏 Magic: The Gathering Commander (yes, that's where Lotus comes from) · 🎸 guitar · ⚽ Football Manager
+- 🎮 JRPGs (Persona, Trails in the Sky, Tales) and way too many Football Manager saves
+- 🀄 Learning Mandarin, tone sandhi and all
+- ⌨️ Custom HHKB-layout build with Keygeek Y2 switches, assembled and tuned by hand
