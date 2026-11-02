@@ -14,11 +14,13 @@
 
 ### About me
 
-- 🎓 4th-year **B.S. Computer Science** (Software Engineering) at **FEU Institute of Technology**, graduating 2027
-- 🔬 Thesis: **S-Aging**, which pairs **YOLOv11** instance segmentation with a **stochastic cellular automata** engine to simulate banana leaf disease in 3D (ACM-format manuscript finalized)
-- 🛠️ Built my own programming language and compiler from scratch, ranked 6th of 40 in class
-- 🏁 Back-end developer for **Kulay / KodigNo** at the AppBuildersPH Devin Hackathon 2026
-- 🌱 Currently looking for a **software development internship**
+- 🔍 I like knowing how things work under the hood, which is how I ended up writing my own compiler
+- 🃏 I turn hobbies into projects: Lotus is a programming language built around Magic: The Gathering cards
+- 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
+- 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time
+- 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
+- 🀄 Currently learning Mandarin and practicing funk and blues on guitar
+- 🌱 Looking for a software development internship
 
 ### Featured projects
 
