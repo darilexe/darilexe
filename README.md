@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Darryl 👋</h1>
 <p align="center">
   <b>CS student from Manila, always curious about how things work under the hood.</b><br>
-  In my free time I'm deep in a JRPG or tuning a Magic: The Gathering Commander deck,
-  usually typing on the custom HHKB-layout keyboard I built myself.
+  In my free time I play JRPGs and Magic: The Gathering,
+  and I built my own custom HHKB-layout mechanical keyboard. ⌨️
 </p>
 
 <p align="center">
