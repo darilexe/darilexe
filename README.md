@@ -16,7 +16,7 @@
 
 - 🔍 I like taking things apart to see how they work, which is how I ended up studying computer science for college :>
 - 🃏 I get obsessed with a hobby, then start writing code to fix the tiny things that annoy me about it
-- 👁️ Computer vision is my favorite rabbit hole: for my thesis I trained a YOLOv11 segmentation model (0.82 mAP@0.5) and built its OpenCV preprocessing pipeline
+- 👁️ Computer vision is a very coool rabbit hole: for our thesis we trained a YOLOv11 segmentation model (0.82 mAP@0.5) and built its OpenCV preprocessing pipeline
 - 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
 - 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
