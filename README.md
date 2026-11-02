@@ -49,8 +49,22 @@
 
 ### Certifications
 
-- **Information Technology Specialist – Python** (Certiport, 2025)
-- **PMI Project Management Ready™** (Project Management Institute, 2026)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/cert-its-python.jpg" alt="Information Technology Specialist Python certificate" width="360"><br>
+      <b>Information Technology Specialist – Python</b><br>
+      Certiport · July 2025 · Score 960/1000<br>
+      <sub>Verify at <a href="https://verify.certiport.com">verify.certiport.com</a> with code <code>bQTE-s4NA</code></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/cert-pmi-project-management-ready.jpg" alt="PMI Project Management Ready certificate" width="360"><br>
+      <b>PMI Project Management Ready®</b><br>
+      Project Management Institute · March 2026 · Score 980/1000<br>
+      <sub>Verify at <a href="https://verify.certiport.com">verify.certiport.com</a> with code <code>L3E7-s4kd</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### My daily driver ⌨️
 
