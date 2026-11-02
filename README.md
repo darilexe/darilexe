@@ -54,6 +54,8 @@
 
 ### My daily driver ⌨️
 
+<p align="center"><img src="assets/keyboard.jpg" alt="Custom 60% HHKB-layout keyboard in a Pine Green aluminum case with green Japanese keycaps" width="640"></p>
+
 | Part | What I used |
 | --- | --- |
 | Case / Layout | KBDFans Agar, aluminum plate (Pine Green, HHKB layout) |
