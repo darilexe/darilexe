@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Darryl 👋</h1>
 <p align="center">
   <b>CS student from Manila who turned Magic: The Gathering into a programming language.</b><br>
-  When I'm not debugging, I'm tuning a Commander deck, playing midwest emo on guitar,<br>
+  When I'm not debugging, I'm tuning a Commander deck, playing midwest emo on guitar,
   or typing on the Pine Green 60% keyboard I built myself.
 </p>
 
