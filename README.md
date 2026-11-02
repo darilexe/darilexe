@@ -2,7 +2,7 @@
 <p align="center">
   <b>CS student from Manila, always curious about how things work under the hood.</b><br>
   In my free time I play JRPGs and Magic: The Gathering,
-  and custom HHKB-layout mechanical keyboard enjoyer. 
+  and I'm a custom HHKB-layout keyboard enjoyer.
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ### About me
 
-- 🔍 I like knowing how things work under the hood, which is how I ended up studying computer science for college :>
+- 🔍 I like taking things apart to see how they work, which is how I ended up studying computer science for college :>
 - 🃏 I get obsessed with a hobby, then start writing code to fix the tiny things that annoy me about it
 - 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
 - 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
-- 🎸 Currently learning guitar on my free time!!!
+- 🎸 Currently learning guitar in my free time!!!
 - 🌱 Looking for a software development internship
 
 ### Featured projects
@@ -46,6 +46,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI tools I use**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Certifications
 
