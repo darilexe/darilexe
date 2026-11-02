@@ -16,6 +16,7 @@
 
 - 🔍 I like taking things apart to see how they work, which is how I ended up studying computer science for college :>
 - 🃏 I get obsessed with a hobby, then start writing code to fix the tiny things that annoy me about it
+- 👁️ Computer vision is my favorite rabbit hole: for my thesis I trained a YOLOv11 segmentation model (0.82 mAP@0.5) and built its OpenCV preprocessing pipeline
 - 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
 - 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
@@ -27,7 +28,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Lotus**](https://github.com/darilexe/lotus-lang) | A Magic: The Gathering–inspired programming language with its own compiler (lexer, parser, semantic analysis, scoped symbol table) and a card-based IDE | Python · Tkinter · Pillow |
-| [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: detects diseased regions on banana leaves and simulates how the disease spreads, on a 3D leaf and across a 2D plantation | Python · FastAPI · YOLOv11 · PyVista · React |
+| [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: a YOLOv11 instance-segmentation model (which I trained, 0.82 mAP@0.5) finds diseased regions on banana leaves, then a cellular-automata engine simulates the spread on a 3D leaf and across a plantation | Python · FastAPI · YOLOv11 · PyVista · React |
 | [**Kulay / KodigNo**](https://github.com/yoellil/Kulay) | Offline reading lab and AI study assistant for Grade 1–12 learners: turns photos, PDFs and notes into quizzes and flashcards with a local AI model, no internet needed | Dart · Flutter · Drift (SQLite) · llama.cpp |
 | [**OnlyCars**](https://github.com/darilexe/OnlyCars) | Car dealership desktop app: browse and buy with a loan calculator, or sell your car for a mileage-based offer | Java · Swing |
 | [**Birthday Congruence Analyzer**](https://github.com/darilexe/birthday-congruence-analyzer) | Finds which birthdays fall on your birth weekday using modular arithmetic, no calendar library | Python · Tkinter |
@@ -41,6 +42,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Computer vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
