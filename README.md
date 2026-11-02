@@ -19,7 +19,7 @@
 - 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
 - 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
-- 🀄 Currently learning guitar on my free time!!!
+- 🎸 Currently learning guitar on my free time!!!
 - 🌱 Looking for a software development internship
 
 ### Featured projects
