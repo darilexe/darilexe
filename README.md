@@ -27,7 +27,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Lotus**](https://github.com/darilexe/lotus-lang) | A Magic: The Gathering–inspired programming language with its own compiler (lexer, parser, semantic analysis, scoped symbol table) and a card-based IDE | Python · Tkinter · Pillow |
-| **S-Aging** | Undergraduate thesis: detects diseased regions on banana leaves and simulates how the disease spreads, on a 3D leaf and across a 2D plantation | Python · FastAPI · YOLOv11 · PyVista · React |
+| [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: detects diseased regions on banana leaves and simulates how the disease spreads, on a 3D leaf and across a 2D plantation | Python · FastAPI · YOLOv11 · PyVista · React |
 | [**Kulay / KodigNo**](https://github.com/yoellil/Kulay) | Offline reading lab and AI study assistant for Grade 1–12 learners: turns photos, PDFs and notes into quizzes and flashcards with a local AI model, no internet needed | Dart · Flutter · Drift (SQLite) · llama.cpp |
 | [**OnlyCars**](https://github.com/darilexe/OnlyCars) | Car dealership desktop app: browse and buy with a loan calculator, or sell your car for a mileage-based offer | Java · Swing |
 | [**Birthday Congruence Analyzer**](https://github.com/darilexe/birthday-congruence-analyzer) | Finds which birthdays fall on your birth weekday using modular arithmetic, no calendar library | Python · Tkinter |
