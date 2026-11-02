@@ -15,7 +15,7 @@
 ### About me
 
 - 🔍 I like knowing how things work under the hood, which is how I ended up studying computer science for college :>
-- 🃏 I turn hobbies into projects: Lotus is a programming language built around Magic: The Gathering cards
+- 🃏 I get obsessed with a hobby, then start writing code to fix the tiny things that annoy me about it
 - 🌾 I like building for real people, from banana farmers (my thesis) to students without reliable internet (Kulay)
 - 🧪 I'm the teammate who tests everything twice; I led QA on my thesis and like getting things right the first time rather than the second time
 - 🤝 Most of my best work was built with a team, and I'm usually the one listening first and keeping things level
