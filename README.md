@@ -31,7 +31,6 @@
 | [**S-Aging**](https://github.com/yoellil/S-aging) | Undergraduate thesis: a YOLOv11 instance-segmentation model (which we trained, 0.82 mAP@0.5) finds diseased regions on banana leaves, then a cellular-automata engine simulates the spread on a 3D leaf and across a plantation | Python · FastAPI · YOLOv11 · PyVista · React |
 | [**Kulay / KodigNo**](https://github.com/yoellil/Kulay) | Offline reading lab and AI study assistant for Grade 1–12 learners: turns photos, PDFs and notes into quizzes and flashcards with a local AI model, no internet needed | Dart · Flutter · Drift (SQLite) · llama.cpp |
 | [**OnlyCars**](https://github.com/darilexe/OnlyCars) | Car dealership desktop app: browse and buy with a loan calculator, or sell your car for a mileage-based offer | Java · Swing |
-| [**Birthday Congruence Analyzer**](https://github.com/darilexe/birthday-congruence-analyzer) | Finds which birthdays fall on your birth weekday using modular arithmetic, no calendar library | Python · Tkinter |
 
 ### Tech I work with
 
